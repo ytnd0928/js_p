@@ -1,3 +1,8 @@
+//クロージャーとは関数が定義されたスコープとその祖先スコープにある変数や関数の仕様を維持する仕組み
+
+
+
+
 function createClosure () {
 
     const value = 'myClosureValue';
